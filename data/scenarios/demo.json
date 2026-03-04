@@ -1,0 +1,8 @@
+{
+  "name": "demo",
+  "rtsMode": true,
+  "map": {
+    "width": 16,
+    "height": 16
+  }
+}
