@@ -1,0 +1,6 @@
+{
+  "units": [
+    {"id": "settler", "movement": 2, "vision": 2, "hp": 10},
+    {"id": "warrior", "movement": 2, "vision": 2, "hp": 12}
+  ]
+}
